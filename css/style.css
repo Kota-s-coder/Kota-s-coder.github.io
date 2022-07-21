@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(255, 231, 126);
+}
+
+header{
+  width: 100%;
+  padding: 15px 0;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title{
+  font-size: 45px;
+}
+
+img{
+  width: 600px;
+  height: 400px;
+}
+
+.pic{
+  display: flex;
+  justify-content: center;
+}
+
+.main{
+  width: 800px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.content{
+  margin: 30px auto;
+}
+
+.content-title{
+  margin: 15px;
+  text-align: center;
+  color: rgb(255, 133, 33);
+}
+
+.content-list{
+  display: flex;
+  justify-content: center;
+}
+
+.content-item{
+  margin: 10px 50px;
+}
+
+.bumon-item{
+  margin: 10px auto;
+}
+
+#hensyu{
+  margin: 10px auto;
+}
+
+.song-list{
+  list-style: none;
+  text-align: center;
+}
+
+.song-title{
+  margin: 5px;
+}
+
+.bumon-sentence{
+  text-align: center;
+}
+
+.member-name{
+  text-align: center;
+  list-style: none;
+}
+
+.lyrics{
+  text-align: center;
+}
+
+footer{
+  margin: 0 auto;
+  padding: 50px;
+  width: 100%;
+  text-align: center;
+}
